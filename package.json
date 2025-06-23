@@ -1,0 +1,17 @@
+{
+  "name": "dw3_proj_freq",
+  "version": "1.0.0",
+  "description": "A atividade avaliativa da implementação de uma funcionalidade para identificar alunos presentes em uma transcrição de reunião do Google Meet envolve diversas etapas para garantir a eficácia e precisão da solução.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  }
+}
